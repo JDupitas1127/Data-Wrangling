@@ -1,6 +1,6 @@
 ---
 title: "Data-Wrangling"
-author: "bessie dizon"
+author: "jhoy dupitas"
 date: "2023-02-03"
 output: html_document
 ---
